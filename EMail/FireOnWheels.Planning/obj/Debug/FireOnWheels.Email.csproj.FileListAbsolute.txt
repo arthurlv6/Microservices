@@ -1,0 +1,14 @@
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.dll.config
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.dll
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.pdb
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\FireOnWheels.Messages.dll
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.dll
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.exe
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\FireOnWheels.Messages.pdb
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.pdb
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.xml
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.pdb
+C:\temp\EMail\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.xml
+C:\temp\EMail\FireOnWheels.Planning\obj\Debug\FireOnWheels.Email.csprojResolveAssemblyReference.cache
+C:\temp\EMail\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.dll
+C:\temp\EMail\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.pdb

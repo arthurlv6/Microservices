@@ -1,0 +1,270 @@
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\FireOnWheels.Rest.dll.config
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\FireOnWheels.Rest.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\FireOnWheels.Rest.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Antlr3.Runtime.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\EntityFramework.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Data.Edm.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Data.OData.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Newtonsoft.Json.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\NServiceBus.Core.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Spatial.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Helpers.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Mvc.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Optimization.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Providers.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Razor.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\WebGrease.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\NServiceBus.Core.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\NServiceBus.Core.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\EntityFramework.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Newtonsoft.Json.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Helpers.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Mvc.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.Razor.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Data.Edm.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\Microsoft.Data.OData.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\System.Spatial.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\de\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\es\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\fr\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\it\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ja\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ko\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\ru\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\obj\Debug\FireOnWheels.Rest.csprojResolveAssemblyReference.cache
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\obj\Debug\FireOnWheels.Rest.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageThree\DispatchService\obj\Debug\FireOnWheels.Rest.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\FireOnWheels.Rest.dll.config
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\FireOnWheels.Rest.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\FireOnWheels.Rest.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\Antlr3.Runtime.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\EntityFramework.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\Microsoft.Data.Edm.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\Microsoft.Data.OData.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\Newtonsoft.Json.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\NServiceBus.Core.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Spatial.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.Helpers.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.Mvc.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.Optimization.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.Providers.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.Razor.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.WebPages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\WebGrease.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\NServiceBus.Core.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\NServiceBus.Core.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\EntityFramework.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\Newtonsoft.Json.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.Helpers.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.Mvc.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.Razor.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.WebPages.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\Microsoft.Data.Edm.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\Microsoft.Data.OData.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\System.Spatial.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\de\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\es\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\fr\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\it\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\ja\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\ko\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\ru\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\obj\Debug\FireOnWheels.Rest.csprojResolveAssemblyReference.cache
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\obj\Debug\FireOnWheels.Rest.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFour\DispatchService\obj\Debug\FireOnWheels.Rest.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\FireOnWheels.Rest.dll.config
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\FireOnWheels.Rest.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\FireOnWheels.Rest.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\Antlr3.Runtime.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\EntityFramework.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\FireOnWheels.Messages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\Microsoft.Data.Edm.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\Microsoft.Data.OData.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\Newtonsoft.Json.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\NServiceBus.Core.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Spatial.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.Helpers.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.Mvc.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.Optimization.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.Providers.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.Razor.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.WebPages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\WebGrease.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\FireOnWheels.Messages.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\NServiceBus.Core.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\NServiceBus.Core.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\EntityFramework.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\Newtonsoft.Json.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.Helpers.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.Mvc.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.Razor.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.WebPages.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\Microsoft.Data.Edm.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\Microsoft.Data.OData.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\System.Spatial.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\de\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\es\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\fr\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\it\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\ja\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\ko\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\ru\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\obj\Debug\FireOnWheels.Rest.csprojResolveAssemblyReference.cache
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\obj\Debug\FireOnWheels.Rest.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod2StartingWithNServiceBus\Demo\StageFive\DispatchService\obj\Debug\FireOnWheels.Rest.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\FireOnWheels.Rest.dll.config
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\FireOnWheels.Rest.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\FireOnWheels.Rest.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\Antlr3.Runtime.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\EntityFramework.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\FireOnWheels.Messages.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\Microsoft.Data.Edm.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\Microsoft.Data.OData.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\Microsoft.Web.Infrastructure.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\Newtonsoft.Json.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\NServiceBus.Core.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Net.Http.Formatting.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Spatial.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Helpers.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Http.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Http.WebHost.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Mvc.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Optimization.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Providers.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Razor.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.WebPages.Deployment.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.WebPages.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.WebPages.Razor.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\WebGrease.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\FireOnWheels.Messages.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\NServiceBus.Core.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\NServiceBus.Core.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\EntityFramework.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\Newtonsoft.Json.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Net.Http.Formatting.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Helpers.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Http.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Http.WebHost.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Mvc.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.Razor.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.WebPages.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.WebPages.Deployment.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Web.WebPages.Razor.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\Microsoft.Data.Edm.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\Microsoft.Data.OData.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\System.Spatial.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\de\Microsoft.Data.Edm.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\es\Microsoft.Data.Edm.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\it\Microsoft.Data.Edm.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\de\Microsoft.Data.OData.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\es\Microsoft.Data.OData.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\fr\Microsoft.Data.OData.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\it\Microsoft.Data.OData.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\ja\Microsoft.Data.OData.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\ko\Microsoft.Data.OData.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\ru\Microsoft.Data.OData.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\de\System.Spatial.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\es\System.Spatial.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\fr\System.Spatial.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\it\System.Spatial.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\ja\System.Spatial.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\ko\System.Spatial.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\ru\System.Spatial.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\zh-Hans\System.Spatial.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\bin\zh-Hant\System.Spatial.resources.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\obj\Debug\FireOnWheels.Rest.csprojResolveAssemblyReference.cache
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\obj\Debug\FireOnWheels.Rest.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\DispatchService\obj\Debug\FireOnWheels.Rest.pdb

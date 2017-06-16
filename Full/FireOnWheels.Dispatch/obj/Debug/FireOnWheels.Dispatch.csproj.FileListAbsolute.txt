@@ -1,0 +1,56 @@
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Dispatch.dll.config
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Dispatch.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Dispatch.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Core.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Host.exe
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\FireOnWheels.Messages.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Core.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Host.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\bin\Debug\NServiceBus.Host.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\obj\Debug\FireOnWheels.Dispatch.csprojResolveAssemblyReference.cache
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\obj\Debug\FireOnWheels.Dispatch.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Order\obj\Debug\FireOnWheels.Dispatch.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Dispatch.dll.config
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Dispatch.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Dispatch.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Messages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Core.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Host.exe
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Messages.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Core.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Host.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Host.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\obj\Debug\FireOnWheels.Dispatch.csprojResolveAssemblyReference.cache
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\obj\Debug\FireOnWheels.Dispatch.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Dispatch\obj\Debug\FireOnWheels.Dispatch.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Dispatch.dll.config
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Dispatch.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Dispatch.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Messages.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Core.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Host.exe
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Messages.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Core.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Core.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Host.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Host.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\obj\Debug\FireOnWheels.Dispatch.csprojResolveAssemblyReference.cache
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\obj\Debug\FireOnWheels.Dispatch.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Dispatch\obj\Debug\FireOnWheels.Dispatch.pdb
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Dispatch.dll.config
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Dispatch.dll
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Dispatch.pdb
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Messages.dll
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Core.dll
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Host.exe
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\FireOnWheels.Messages.pdb
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Core.pdb
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Core.xml
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Host.pdb
+C:\temp\Saga\FireOnWheels.Dispatch\bin\Debug\NServiceBus.Host.xml
+C:\temp\Saga\FireOnWheels.Dispatch\obj\Debug\FireOnWheels.Dispatch.csprojResolveAssemblyReference.cache
+C:\temp\Saga\FireOnWheels.Dispatch\obj\Debug\FireOnWheels.Dispatch.dll
+C:\temp\Saga\FireOnWheels.Dispatch\obj\Debug\FireOnWheels.Dispatch.pdb

@@ -1,0 +1,42 @@
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.dll.config
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\FireOnWheels.Messages.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.exe
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\FireOnWheels.Messages.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.pdb
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.xml
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.csprojResolveAssemblyReference.cache
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.dll
+C:\Users\Roland\OneDrive\Pluralsight\3-ScalingApplicationsWithMicroservicesAndNServicebus\Mod3Sagas\Demo\1\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.dll.config
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\FireOnWheels.Messages.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.exe
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\FireOnWheels.Messages.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.pdb
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.xml
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.csprojResolveAssemblyReference.cache
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.dll
+D:\microservicesBus6\Scaling Applications with Microservices and NServiceBus\3-microservices-nservicebus-m3-exercise-files\1\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.pdb
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.dll.config
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.dll
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.pdb
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\FireOnWheels.Messages.dll
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.dll
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.exe
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\FireOnWheels.Messages.pdb
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.pdb
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.xml
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.pdb
+C:\temp\Saga\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.xml
+C:\temp\Saga\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.csprojResolveAssemblyReference.cache
+C:\temp\Saga\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.dll
+C:\temp\Saga\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.pdb

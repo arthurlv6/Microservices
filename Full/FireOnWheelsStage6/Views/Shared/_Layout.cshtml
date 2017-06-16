@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body class="container-fluid">
+<h1>Microservice cool</h1>
+    <ul style="color:darkblue">
+        <li>
+            <h3>Split logic</h3>
+        </li>
+        <li>
+            <h3>Low cost to deploy</h3>
+        </li>
+    </ul>
+
+@RenderBody()
+
+@Scripts.Render("~/bundles/jquery")
+@RenderSection("scripts", required: false)
+</body>
+</html>

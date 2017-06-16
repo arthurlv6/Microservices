@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license id="37a5baeb-cc96-4649-8cce-6b5cc249b967" expiration="2017-06-19T00:00:00.0000000" type="Trial" Applications="All" LicenseVersion="6.0" WorkerThreads="Max" AllowedNumberOfWorkerNodes="Max" LicenseType="Trial" MaxMessageThroughputPerSecond="Max">
+  <name>arthur.lv6@gmail.com</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>lF8k3cpxLAV5Qtnjs4okc3zYRxg=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>2+KoTcAnp+KSzJNgzcBpBOpFpNbrWOa8A2jnS+It9ZsBcJEzRf6C1veSFndyKNLZarqXjRVX6pEltQSvfLUTTR2HsFPjM1C11XnvWmjjerlgvrtrcV1RfzZ+EJCvvbLcIrfqnuysy3NySbMsDrMvg7Fu0icoXgUs1fG1+8rLvZY=</SignatureValue>
+  </Signature>
+</license>
