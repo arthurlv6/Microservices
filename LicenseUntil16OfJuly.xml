@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<license id="37a5baeb-cc96-4649-8cce-6b5cc249b967" expiration="2017-06-19T00:00:00.0000000" type="Trial" Applications="All" LicenseVersion="6.0" WorkerThreads="Max" AllowedNumberOfWorkerNodes="Max" LicenseType="Trial" MaxMessageThroughputPerSecond="Max">
+<license id="068f164b-4000-4ede-8d9d-6c319d1e652d" expiration="2017-07-16T00:00:00.0000000" type="Trial" Applications="All" LicenseVersion="6.0" WorkerThreads="Max" AllowedNumberOfWorkerNodes="Max" LicenseType="Trial" MaxMessageThroughputPerSecond="Max">
   <name>arthur.lv6@gmail.com</name>
   <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
     <SignedInfo>
@@ -10,9 +10,9 @@
           <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
         </Transforms>
         <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <DigestValue>lF8k3cpxLAV5Qtnjs4okc3zYRxg=</DigestValue>
+        <DigestValue>xpZZi2Pv4qt4xjKWaBpXotFOhOI=</DigestValue>
       </Reference>
     </SignedInfo>
-    <SignatureValue>2+KoTcAnp+KSzJNgzcBpBOpFpNbrWOa8A2jnS+It9ZsBcJEzRf6C1veSFndyKNLZarqXjRVX6pEltQSvfLUTTR2HsFPjM1C11XnvWmjjerlgvrtrcV1RfzZ+EJCvvbLcIrfqnuysy3NySbMsDrMvg7Fu0icoXgUs1fG1+8rLvZY=</SignatureValue>
+    <SignatureValue>4mHeVXd/SKKQVFxaLlLx7ZijUsTsWNwkPzjGw0Lr1HAW7E6P42zxPuclndfpQ01up4L/Kn1f45CKlXPJxPBRFkTXa895IF8Y8hIOl20O6I+/dqHI8mgNPbBK+ihegQxrbtL+R2+H1tgP1gSf1GqQjk5wXPb1OUnmIxz7YLgJWlI=</SignatureValue>
   </Signature>
 </license>
