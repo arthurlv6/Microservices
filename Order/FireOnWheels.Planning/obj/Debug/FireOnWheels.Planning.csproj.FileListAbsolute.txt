@@ -40,3 +40,17 @@ C:\temp\Saga\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.xml
 C:\temp\Saga\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.csprojResolveAssemblyReference.cache
 C:\temp\Saga\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.dll
 C:\temp\Saga\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.pdb
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.dll.config
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.dll
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\FireOnWheels.Planning.pdb
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\FireOnWheels.Messages.dll
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.dll
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.exe
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\FireOnWheels.Messages.pdb
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.pdb
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\NServiceBus.Core.xml
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.pdb
+C:\Microservices\Order\FireOnWheels.Planning\bin\Debug\NServiceBus.Host.xml
+C:\Microservices\Order\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.csprojResolveAssemblyReference.cache
+C:\Microservices\Order\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.dll
+C:\Microservices\Order\FireOnWheels.Planning\obj\Debug\FireOnWheels.Planning.pdb
